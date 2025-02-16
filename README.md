@@ -19,6 +19,7 @@ Le dernier projet est à retrouver dans la partie [Aéroworld](https://github.co
 La liste de mes compétences acquises tout au long de la formation est ici : [Veille professionnelle](https://github.com/BenedyJ/Formation_data_analyst/blob/main/Aéroworld/Veille%20professionnelle.pdf)
 ## Conclusion
 En espérant que l'ensemble des données que j'ai transformé en informations me concernant vous permettront de visualiser mon histoire.
-Ce portfolio est destiné à être régulièrement mis à jour. N'hésitez pas à me rejoindre sur linkedin pour que l'on puisse échanger
-## 📫 Me contacter
+Ce portfolio est destiné à être régulièrement mis à jour. 
+## 📫 LinkedIn
+N'hésitez pas à me rejoindre sur linkedIn pour que l'on puisse échanger
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/benedy-jean-philippe/)
