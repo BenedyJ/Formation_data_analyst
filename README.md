@@ -21,5 +21,4 @@ La liste de mes compétences acquises tout au long de la formation est ici : [Ve
 En espérant que l'ensemble des données que j'ai transformé en informations me concernant vous permettront de visualiser mon histoire.
 Ce portfolio est destiné à être régulièrement mis à jour. N'hésitez pas à me rejoindre sur linkedin pour que l'on puisse échanger
 ## 📫 Me contacter
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/benedy-jean-philippe/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/benedy-jean-philippe/)
