@@ -1,5 +1,3 @@
-# Mon Portfolio Data Analyst 
-
 ## Introduction 
 Vous trouverez ici tous les projets que j'ai réalisé pour devenir Data analyst. Ce portfolio est très important pour moi car il regroupe les différents projets que j'ai réalisé durant ma formation. De plus, il me permet de mettre en évidence l'ensemble des compétences que j'ai acquises lors de ma formation.
 ## A propos de moi
