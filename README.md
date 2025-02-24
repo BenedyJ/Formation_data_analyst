@@ -12,14 +12,13 @@ J'ai démarré par la suite une reconversion pour être data analyst. Durant ce 
 
 Enfin, j'ai validé ma formation avec l'obtention de mon diplôme en janvier 2025.
 ## Mes projets
-L'ensemble de mes projets sont à retrouver dans la partie [Formation_data_analyst](https://github.com/BenedyJ/Formation_data_analyst)
+L'ensemble de mes projets sont à retrouver dans la partie : [Formation_data_analyst](https://github.com/BenedyJ/Formation_data_analyst)
 ## Mon dernier projet : Aéroworld
-Le dernier projet est à retrouver dans la partie [Aéroworld](https://github.com/BenedyJ/Formation_data_analyst/tree/main/Aéroworld)
+Le dernier projet est à retrouver dans la partie : [Aéroworld](https://github.com/BenedyJ/Formation_data_analyst/tree/main/Aéroworld)
 ## Mes compétences
 La liste de mes compétences acquises tout au long de la formation est ici : [Veille professionnelle](https://github.com/BenedyJ/Formation_data_analyst/blob/main/Aéroworld/Veille%20professionnelle.pdf)
 ## Conclusion
 En espérant que l'ensemble des données que j'ai transformé en informations me concernant vous permettront de visualiser mon histoire.
-Ce portfolio est destiné à être régulièrement mis à jour. 
 ## 📫 LinkedIn
 N'hésitez pas à me rejoindre sur linkedIn pour que l'on puisse échanger
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/benedy-jean-philippe/)
