@@ -4,7 +4,7 @@
 Vous trouverez ici tous les projets que j'ai réalisé pour devenir Data analyst. Ce portfolio est très important pour moi car il regroupe les différents projets que j'ai réalisé durant ma formation. De plus, il me permet de mettre en évidence l'ensemble des compétences que j'ai acquises lors de ma formation.
 ## A propos de moi
 Je suis Bénédy Jean-Philippe et j'ai travaillé pendant 8 ans dans le retail et la logistique. Cette expérience m'a permis de développer des solides connaissances dans ces deux secteurs
-mais aussi de développer ma capacité de reflexion et ma polyvalence. J'ai également été responsable d'une équipe de 7 personnes avec laquelle j'ai pu réaliser de nombreux objectifs.
+mais aussi de développer ma capacité de reflexion et ma polyvalence. J'ai également été responsable d'une équipe de 8 personnes avec laquelle j'ai pu réaliser de nombreux objectifs.
 J'ai démarré par la suite une reconversion pour être data analyst. Durant ce parcours, j'ai développé de nombreuses compétences comme : 
 * Analyse de données (Python)
 * Visualisation de données (Tableau)
