@@ -11,6 +11,8 @@ J'ai démarré par la suite une reconversion pour être data analyst. Durant ce 
 * Modélisation statistique (Régressions, K-means, moyennes mobiles, SARIMA)
 * Gestion des bases de données (SQLiteStudio)
 * Suivi et mise en place de KPI (Excel, Tableau)
+
+Enfin, j'ai validé ma formation avec l'obtention de mon diplôme en janvier 2025.
 ## Mes projets
 L'ensemble de mes projets sont à retrouver dans la partie [Formation_data_analyst](https://github.com/BenedyJ/Formation_data_analyst)
 ## Mon dernier projet Aéroworld
