@@ -20,4 +20,5 @@ La liste de mes compétences acquises tout au long de la formation est ici : [Ve
 En espérant que l'ensemble des données que j'ai transformé en informations me concernant vous permettront de visualiser mon histoire.
 ## 📫 LinkedIn
 N'hésitez pas à me rejoindre sur linkedIn pour échanger et partager autour de la data :
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/benedy-jean-philippe/)
