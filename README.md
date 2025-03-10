@@ -10,13 +10,13 @@ J'ai démarré par la suite une reconversion pour être Data Analyst. Durant ce 
 * Suivi et mise en place de KPI : Analyse des performances et optimisation des processus avec Excel et Tableau.
 
 Enfin, j'ai validé ma formation avec l'obtention de mon diplôme en janvier 2025.
-## Mes projets
+## 📌 Mes projets
 L'ensemble de mes projets sont à retrouver dans la partie : [Formation_data_analyst](https://github.com/BenedyJ/Formation_data_analyst)
-## Mon dernier projet : Aéroworld
+## 📌 Mon dernier projet : Aéroworld
 Mon projet le plus récent, Aéroworl, est accessible ici : [Aéroworld](https://github.com/BenedyJ/Formation_data_analyst/tree/main/Aéroworld)
-## Mes compétences
+## 📌 Mes compétences
 La liste de mes compétences acquises tout au long de la formation est ici : [Veille professionnelle](https://github.com/BenedyJ/Formation_data_analyst/blob/main/Aéroworld/Veille%20professionnelle.pdf)
-## Conclusion
+## 📌 Conclusion
 En espérant que l'ensemble des données que j'ai transformé en informations me concernant vous permettront de visualiser mon histoire.
 ## 📫 LinkedIn
 N'hésitez pas à me rejoindre sur linkedIn pour échanger et partager autour de la data !
