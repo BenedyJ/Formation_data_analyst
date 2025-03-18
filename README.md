@@ -13,7 +13,7 @@ Enfin, j'ai validé ma formation avec l'obtention de mon diplôme en janvier 202
 ## 📌 Mes projets
 L'ensemble de mes projets sont à retrouver dans la partie : [Formation_data_analyst](https://github.com/BenedyJ/Formation_data_analyst)
 ## 📌 Mon dernier projet : Aéroworld
-Mon projet le plus récent, Aéroworl, est accessible ici : [Aéroworld](https://github.com/BenedyJ/Formation_data_analyst/tree/main/Aéroworld)
+Mon projet le plus récent est accessible ici : [Aéroworld](https://github.com/BenedyJ/Formation_data_analyst/tree/main/Aéroworld)
 ## 📌 Mes compétences
 La liste de mes compétences acquises tout au long de la formation est ici : [Veille professionnelle](https://github.com/BenedyJ/Formation_data_analyst/blob/main/Aéroworld/Veille%20professionnelle.pdf)
 ## 📌 Conclusion
