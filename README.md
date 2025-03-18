@@ -1,7 +1,7 @@
 ## Introduction 
 Vous trouverez ici tous les projets que j'ai réalisé pour devenir Data Analyst. Ce portfolio me permet non seulement de regrouper les travaux effectués durant ma formation, mais aussi de mettre en avant les compétences et méthodes que j’ai développées.
 ## A propos de moi
-Je suis Bénédy Jean-Philippen ancien responsable d'équipe dans le retail et la logistique avec 8 ans d'expérience dans ces secteurs.  Cette expérience m’a permis d’acquérir une vision stratégique, une forte capacité d’analyse et une polyvalence essentielle dans la gestion des opérations. J’ai également encadré une équipe de 8 collaborateurs, avec lesquels j’ai piloté divers projets, atteignant des objectifs commerciaux et opérationnels.
+Je suis Bénédy Jean-Philippe ancien responsable d'équipe dans le retail et la logistique avec 8 ans d'expérience dans ces secteurs.  Cette expérience m’a permis d’acquérir une vision stratégique, une forte capacité d’analyse et une polyvalence essentielle dans la gestion des opérations. J’ai également encadré une équipe de 8 collaborateurs, avec lesquels j’ai piloté divers projets, atteignant des objectifs commerciaux et opérationnels.
 J'ai démarré par la suite une reconversion pour être Data Analyst. Durant ce parcours, j'ai développé de nombreuses compétences comme : 
 * Analyse de données : manipulation, transformation et modélisation des données avec Python (pandas, matplotlib, seaborn)
 * Visualisation de données : Création de tableaux de bord intéractifs avec Tableau, PowerBI et Excel.
